@@ -16,9 +16,6 @@ class Solution(object):
                 tail.next = list2
                 tail = tail.next
                 list2 = list2.next
-
-                
-           
             tail.next = None
             
         if list1 != None:

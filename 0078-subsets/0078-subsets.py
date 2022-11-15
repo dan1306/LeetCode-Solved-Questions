@@ -6,7 +6,7 @@ class Solution(object):
 
         def rec(i):
 
-            if i == len(nums):
+            if i >= len(nums):
               
                 res.append(list(subset))
                 return

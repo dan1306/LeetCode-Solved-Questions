@@ -4,6 +4,7 @@ class Solution:
         soluObj = {}
 
         nums.sort()
+        arr = []
 
         while len(nums) >= 3:
 
@@ -21,6 +22,7 @@ class Solution:
 
                     if key not in soluObj:
                         soluObj[key] = ansArr
+                        arr.append(ansArr)
                     r-= 1
                 if ans > 0:
                     r -= 1
@@ -29,9 +31,9 @@ class Solution:
             nums.pop(0)
         # print(soluObj)
 
-        arr = []
+#         arr = []
 
-        for i in soluObj:
-            arr.append(soluObj[i])
+#         for i in soluObj:
+           
 
         return arr

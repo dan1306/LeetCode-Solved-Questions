@@ -12,7 +12,7 @@ class Solution:
                 l = 0
                 r = len(arr) - 1
 
-                arr.sort()
+                # arr.sort()
 
                 print(arr)
 

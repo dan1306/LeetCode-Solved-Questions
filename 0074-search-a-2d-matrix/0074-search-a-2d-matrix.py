@@ -1,5 +1,10 @@
-class Solution:
-    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+class Solution(object):
+    def searchMatrix(self, matrix, target):
+        """
+        :type matrix: List[List[int]]
+        :type target: int
+        :rtype: bool
+        """
         arr = []
         n = 0
 
@@ -8,13 +13,11 @@ class Solution:
             if i[0] <= target and i[-1] >= target:
                 if i[0] == target or i[-1] == target:
                     return True
-                arr = [*i]
                 l = 0
-                r = len(arr) - 1
+                r = len(i) - 1
 
-                # arr.sort()
 
-                print(arr)
+                print(i)
 
                 while l <= r:
 
@@ -22,16 +25,16 @@ class Solution:
 
                     mid = (l + r) // 2
 
-                    if arr[mid] > target:
+                    if i[mid] > target:
                         r = mid - 1
                         continue
 
-                    if arr[mid] < target:
+                    if i[mid] < target:
                         l = mid + 1
                         continue
 
-                    if target is arr[mid]:
-                        print(arr[mid])
+                    if target is i[mid]:
+                        print(i[mid])
                         return True
 
                 return False

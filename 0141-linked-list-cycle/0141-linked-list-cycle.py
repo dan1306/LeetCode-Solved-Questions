@@ -11,15 +11,19 @@ class Solution(object):
         :rtype: bool
         """
         
-        arr = []
+        if head == None:
+            return False
         
+        slow = head
+        fast = head.next
         
-        while head:
-            if head in arr:
-                return True
-            arr.append(head)
-            print(head.val)
-            head = head.next
+        while slow != fast:
             
-        return False 
+            if fast == None or fast.next == None:
+                return False
+            
+            slow = slow.next
+            fast = fast.next.next
+        return True
+            
         

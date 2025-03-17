@@ -4,15 +4,16 @@
  */
 var containsDuplicate = function(nums) {
 
+    nums.sort();
 
-    let obj = {};
     let index = 0;
 
-    while(index < nums.length){
+    let inexPlusOne = index + 1;
 
-        if(nums[index] in obj ) return true;
-        obj[nums[index]] = true;
+    while(index < nums.length && inexPlusOne < nums.length){
+        if(nums[index] == nums[inexPlusOne]) return true;
         index++;
+        inexPlusOne++;
     }
 
     return false;

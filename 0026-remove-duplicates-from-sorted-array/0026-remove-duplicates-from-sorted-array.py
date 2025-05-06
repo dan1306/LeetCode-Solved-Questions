@@ -4,24 +4,32 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        # for i in range(0, len())
 
         if (len(nums) == 0):
             return 0;
         if (len(nums) == 1):
             return 1;
 
-        k = 1;
-        element_at_index = nums[0]
-        curr = 1;
-        print("element at curr " + str(curr) + " " + str(nums[curr]));
+        pointer_one = 0;
+        pointer_two = 0;
+        i_am_unique = " ";
+        k = 0
 
-        while(curr < len(nums)):
-            print("element at curr " + str(curr) + " " + str(nums[curr]));
-            if (nums[curr] == element_at_index):
-                print("popping " + str(nums[curr]))
-                nums.pop(curr);
-            else:
-                element_at_index = nums[curr];
-                curr += 1;
+        while(pointer_one < len(nums)):
+            if(pointer_one == 0):
+                i_am_unique = nums[pointer_one];
+
+                pointer_two +=1;
                 k += 1;
+            else:
+                if(i_am_unique != " " and i_am_unique != nums[pointer_one]):
+                    i_am_unique = nums[pointer_one];
+                    nums[pointer_two] = i_am_unique;
+                    k+=1;
+                    pointer_two+=1;
+            pointer_one += 1;
+
+        while(len(nums) != k):
+            nums.pop(-1)
+
+        print(nums)

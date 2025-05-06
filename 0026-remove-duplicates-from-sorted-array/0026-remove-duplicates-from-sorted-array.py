@@ -4,24 +4,26 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        # for i in range(0, len())
+
+        if(len(nums) == 0):
+            return 0;
+        if(len(nums) == 1):
+            return 1;
         
-        arr = []
-        
-        obj = {}
-        
-        for i in range(0, len(nums)):
-            if nums[i] in obj:
-                arr.append(i)
-                
+        k = 1;
+        element_at_index = nums[0]
+        curr = 1;
+        while(curr < len(nums)):
+            if(nums[curr] == element_at_index):
+                nums[curr] = " ";
+                curr+=1;
             else:
-                obj[nums[i]] = nums[i]
-                
-        print obj,arr
-        
-        for j in arr:
-            nums[j] = " "
-            # nums.a
+                element_at_index = nums[curr];
+                curr+=1;
+                k+=1;
+        # print("ans is = " + str(k) )
+        # return k
         
         while " " in nums:
-            nums.remove(" ")
-        # return nums
+            nums.remove(" ");

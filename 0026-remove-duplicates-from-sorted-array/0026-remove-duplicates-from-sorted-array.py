@@ -5,10 +5,10 @@ class Solution(object):
         :rtype: int
         """
 
-        if (len(nums) == 0):
-            return 0;
-        if (len(nums) == 1):
-            return 1;
+        # if (len(nums) == 0):
+        #     return 0;
+        # if (len(nums) == 1):
+        #     return 1;
 
         pointer_one = 0;
         pointer_two = 0;
@@ -32,4 +32,4 @@ class Solution(object):
         while(len(nums) != k):
             nums.pop(-1)
 
-        print(nums)
+        # print(nums)

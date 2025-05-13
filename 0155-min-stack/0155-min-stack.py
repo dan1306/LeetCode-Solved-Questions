@@ -7,8 +7,19 @@ class MinStack(object):
 
     def push(self, val):
         self.stack.append(val)
-        n = min(self.stack)
-        self.minStack.append(n)
+        # n = min(self.stack)
+        # self.minStack.append(n)
+
+        if len(self.minStack) == 0:
+            self.minStack.append(val)
+            return
+
+        if val < self.minStack[-1]:
+            self.minStack.append(val)
+        else:
+            self.minStack.append(self.minStack[-1])
+
+
         """
         :type val: int
         :rtype: None
@@ -35,7 +46,6 @@ class MinStack(object):
         """
         :rtype: int
         """
-        
 
 
 # Your MinStack object will be instantiated and called as such:

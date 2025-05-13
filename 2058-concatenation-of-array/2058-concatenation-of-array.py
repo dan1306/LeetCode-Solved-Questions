@@ -4,10 +4,10 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        count = 0
+        # count = 0
         ans = []
-        while count < 2:
+        for j in range(0, 2):
             for i in nums:
                 ans.append(i)
-            count += 1;
+            # count += 1;
         return ans

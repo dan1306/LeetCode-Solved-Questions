@@ -3,28 +3,29 @@ class Solution(object):
         """
         :type s: str
         :rtype: bool
-      """
-
-        stack = []
-
-        closing = [')', '}',  ']']
-
-        closing_paranthesis = {
-            ')':  '(',
-            '}': '{',
-            ']': '['
+        """
+        container = []
+        closed_breackets = ['}', ']', ')']
+        open_brackets = {
+            '{': 0,
+            '[': 1,
+            '(': 2 
         }
-
         for i in s:
-            if i in closing and len(stack) > 0:
-                if stack[-1] == closing_paranthesis[i]:
-                    stack.pop()
+            if i in closed_breackets:
+                if len(container) == 0:
+                    return False
+                elif closed_breackets[open_brackets[container[len(container)- 1 ]]] == i:
+                    container.pop(-1)
                 else:
                     return False
             else:
-                stack.append(i)
+                container.append(i)
 
-        if len(stack) > 0:
+
+        if len(container) == 0:
+            return True
+        else:
             return False
+
         
-        return True

@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -39,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2058-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

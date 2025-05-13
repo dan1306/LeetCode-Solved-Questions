@@ -12,7 +12,9 @@ class MinStack(object):
 
         if len(self.minStack) == 0:
             self.minStack.append(val)
-        elif val < self.minStack[-1]:
+            return
+            
+        if val < self.minStack[-1]:
             self.minStack.append(val)
         else:
             self.minStack.append(self.minStack[-1])
@@ -25,8 +27,8 @@ class MinStack(object):
         
 
     def pop(self):
-        self.stack.pop()
-        self.minStack.pop()
+        self.stack.pop(-1)
+        self.minStack.pop(-1)
         """
         :rtype: None
         """

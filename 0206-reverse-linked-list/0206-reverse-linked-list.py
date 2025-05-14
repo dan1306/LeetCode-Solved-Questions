@@ -18,7 +18,6 @@ class Solution(object):
         nxtUp= None
         first = 0
 
-        print(nxt.val)
 
         while nxt != None:
 

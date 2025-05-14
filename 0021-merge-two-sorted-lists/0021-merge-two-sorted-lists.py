@@ -48,19 +48,9 @@ class Solution(object):
                 list1 = list1.next
 
         if list1:
-            while list1:
-                dono = ListNode()
-                dono.val = list1.val
-                tail.next = dono
-                tail = tail.next
-                list1 = list1.next
+            tail.next = list1
         else:
-            while list2:
-                dono = ListNode()
-                dono.val = list2.val
-                tail.next = dono
-                tail = tail.next
-                list2 = list2.next
+            tail.next = list2
 
         return dummy
         

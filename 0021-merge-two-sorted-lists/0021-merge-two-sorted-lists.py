@@ -27,24 +27,28 @@ class Solution(object):
                 if(first == 0):
                     tail.val = list2.val
                     first = 1
+                    list2 = list2.next
+                    continue
 
-                else:
-                    dono = ListNode()
-                    dono.val = list2.val
-                    tail.next = dono
-                    tail = tail.next
+
+                dono = ListNode()
+                dono.val = list2.val
+                tail.next = dono
+                tail = tail.next
 
                 list2 = list2.next
             else:
                 if(first == 0):
                         tail.val = list1.val
                         first = 1
+                        list1 = list1.next
+                        continue
 
-                else:
-                    dono = ListNode()
-                    dono.val = list1.val
-                    tail.next = dono
-                    tail = tail.next
+            
+                dono = ListNode()
+                dono.val = list1.val
+                tail.next = dono
+                tail = tail.next
                 list1 = list1.next
 
         if list1:

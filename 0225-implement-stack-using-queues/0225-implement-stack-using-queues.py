@@ -1,67 +1,43 @@
-class ListNode:
-    def __init__(self, val):
-        self.val = val
-        self.next = None
-        self.prev = None
-
 class MyStack(object):
 
     def __init__(self):
-        self.head = None
-        self.tail = None
-        self.size = 0
+               
+        self.arr= []
         
 
     def push(self, x):
+        
+        self.arr.append(x)
+        
+            
+
         """
         :type x: int
         :rtype: None
         """
-
-        if self.size == 0:
-            self.head = self.tail = ListNode(x)
-        else:
-            dummy =  ListNode(x)
-            dummy.prev = self.tail
-            self.tail.next = ListNode(x)
-            self.tail = dummy
-        self.size += 1
         
 
     def pop(self):
+        
+        return self.arr.pop(-1)
         """
         :rtype: int
         """
-        if self.size == 1:
-            self.size -=1
-            returnMe = self.head
-            self.head = self.tail = None
-            return returnMe.val
-        elif self.size != 0 and self.size > 1:
-            returnMe = self.tail
-            self.tail = self.tail.prev
-            self.tail.next = None
-            self.size -= 1
-            return returnMe.val
         
 
     def top(self):
+        return self.arr[-1]
         """
         :rtype: int
         """
-        if self.size == 0:
-            return 
-        return self.tail.val
-
         
 
     def empty(self):
+        
+        return(len(self.arr) == 0)
         """
         :rtype: bool
         """
-        if self.size == 0:
-            return True
-        return False
         
 
 

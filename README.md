@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2058-concatenation-of-array) |
 ## Stack
 |  |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -67,4 +70,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->

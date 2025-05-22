@@ -1,13 +1,25 @@
 class Solution(object):
     def climbStairs(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
 
         if n == 1:
             return 1
+        elif n == 2:
+            return 2
+        else:
+            first = 1
+            sec = 2
+            ans = 0
+            incrementMe = 2
+            while incrementMe < n:
+                ans = first + sec
 
-        arr = [1, 1]
+                first = sec
+                sec = ans
+                incrementMe += 1
+            return ans
 
-        for i in range(0, n - 1):
-
-            arr.append( arr[-1] + arr[-2])
-
-        return(arr[-1])
+        

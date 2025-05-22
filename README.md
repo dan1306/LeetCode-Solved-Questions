@@ -83,4 +83,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->

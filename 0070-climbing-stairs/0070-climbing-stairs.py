@@ -12,14 +12,12 @@ class Solution(object):
         else:
             first = 1
             sec = 2
-            ans = 0
             incrementMe = 2
             while incrementMe < n:
-                ans = first + sec
-
-                first = sec
-                sec = ans
+                dummy = sec
+                sec  = first + sec
+                first = dummy
                 incrementMe += 1
-            return ans
+            return sec
 
         

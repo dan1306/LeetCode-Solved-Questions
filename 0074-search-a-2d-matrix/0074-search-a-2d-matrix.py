@@ -1,33 +1,56 @@
 class Solution(object):
     def searchMatrix(self, matrix, target):
-            """
-            :type matrix: List[List[int]]
-            :type target: int
-            :rtype: bool
-            """
-            for i in matrix:
+        """
+        :type matrix: List[List[int]]
+        :type target: int
+        :rtype: bool
+        """
 
-                if i[0] == target or i[-1] == target:
+        for  i in matrix:
+
+            if i[0] <= target and i[len(i) - 1] >= target:
+                momentoftruth= search(i, target) 
+                if momentoftruth is not -1:
                     return True
+                
+        return False
+        
 
-                if i[0] <= target and i[-1] >= target:
 
-                    l = 0
-                    r = len(i) - 1
 
-                    while l <= r:
-                        mid = (l + r) // 2
 
-                        if i[mid] > target:
-                            r = mid - 1
-                            continue
 
-                        if i[mid] < target:
-                            l = mid + 1
-                            continue
 
-                        if target is i[mid]:
-                            print(i[mid])
-                            return True
 
-                    return False
+def search(nums, target):
+    """
+    :type nums: List[int]
+    :type target: int
+    :rtype: int
+    """
+
+    first = 0
+    second = len(nums) - 1
+
+
+    while first < second and first is not second:
+        mid = (first + second) / 2
+
+        if nums[mid] == target:
+            return mid
+        elif nums[mid] > target:
+            second = mid
+        else:
+            first = mid 
+
+        if first + 1 == second :
+            break
+
+    if nums[first] == target:
+        return first 
+    elif nums[second] == target:
+        return second 
+    return -1
+
+    
+    

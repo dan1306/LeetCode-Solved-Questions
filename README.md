@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
 ## Binary Tree
 |  |
 | ------- |

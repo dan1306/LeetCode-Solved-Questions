@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0374-guess-number-higher-or-lower](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
 ## Binary Tree
@@ -103,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

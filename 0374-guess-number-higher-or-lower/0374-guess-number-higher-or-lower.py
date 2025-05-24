@@ -7,37 +7,26 @@
 
 class Solution(object):
     def guessNumber(self, n):
-        
-        beg = 0
-        end = n 
-
-        mid =int(round((beg + end)/2))
-        print(mid)
-
-        while beg < end:
-
-            if guess(mid) == 0:
-                print(mid)
-                return mid
-
-            elif guess(mid) == -1:
-
-                end = mid - 1
-            else:
-
-                beg = mid + 1
-
-            mid = int(round((beg + end) / 2))
-
-
-        if guess(mid) == 0:
-            
-
-            return mid
-        
-        
         """
         :type n: int
         :rtype: int
         """
+        first = 1
+        second = n
+
+
+
+        while True:
+            mid = (first + second) / 2
+            ans = guess(mid)
+
+            
+            if first == second:
+                return first
+            elif ans == 0:
+                return mid
+            elif ans == -1:
+                second = mid - 1
+            else:
+                first = mid + 1
         

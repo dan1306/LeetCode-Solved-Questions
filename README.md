@@ -91,12 +91,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0278-first-bad-version](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Matrix
@@ -122,4 +125,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->

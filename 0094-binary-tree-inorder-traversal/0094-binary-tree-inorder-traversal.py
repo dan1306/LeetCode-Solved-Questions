@@ -6,22 +6,32 @@
 #         self.right = right
 class Solution(object):
     def inorderTraversal(self, root):
-        
-        if root is None:
-            return []
-        
-        def recur(list, obj):
-            if obj.left:
-                recur(list, obj.left)
-            list.append(obj.val)
-            if obj.right:
-                recur(list, obj.right)
-            return list
-        
-        return recur([], root)
-        
         """
-        :type root: TreeNode
+        :type root: Optional[TreeNode]
         :rtype: List[int]
         """
+        if root == None:
+            return []
+        
+        l = []
+
+        self.recurssionSolution(root, l)
+        return l
+
+
+        
+
+
+    
+    def recurssionSolution(self, r, l):
+
+        if r.left:
+            self.recurssionSolution(r.left,  l)
+        
+        l.append(r.val)
+
+        if r.right:
+            self.recurssionSolution(r.right,  l)
+        
+        return
         

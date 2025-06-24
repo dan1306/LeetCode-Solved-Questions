@@ -15,6 +15,7 @@ class Solution(object):
             return []
         
         l = []
+        ans = None
 
         self.recurssionSolution(root, l)
         return l[k - 1]

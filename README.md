@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0907-koko-eating-bananas) |
+| [1582-design-browser-history](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
+| [1582-design-browser-history](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
@@ -59,12 +61,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0838-design-linked-list) |
+| [1582-design-browser-history](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1582-design-browser-history) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0838-design-linked-list) |
+| [1582-design-browser-history](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -126,4 +130,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->

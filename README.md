@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0838-design-linked-list) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 ## Queue
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |

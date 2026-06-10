@@ -5,19 +5,23 @@ class Solution(object):
         :rtype: int
         """
         
-        setOfN = set(nums);
+        setOn = set(nums);
 
-        l = 0;
-        
-        for i in setOfN:
+        returnThisNum = 0;
 
-            if i - 1 not in setOfN:
-                length = 1;
-                placeHolder = i + 1;
-                while placeHolder in setOfN:
-                    length += 1;
-                    placeHolder += 1;
-                if length > l:
-                    l = length;
+        for i in setOn:
+            if i - 1 in setOn:
+                continue;
 
-        return l;
+            placeholder = i + 1;
+
+            increment = 1;
+            
+            while placeholder in setOn:
+                increment += 1;
+                placeholder += 1;
+            
+            if increment > returnThisNum:
+                returnThisNum = increment;
+
+        return returnThisNum;

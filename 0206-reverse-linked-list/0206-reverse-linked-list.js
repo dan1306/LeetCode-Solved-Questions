@@ -30,10 +30,9 @@ var reverseList = function(head) {
        next = next.next;
     //    next = next.next;
     }
-
     curr.next = pre
 
-    console.log(pre)
+    // console.log(pre)
     return curr;
 
 

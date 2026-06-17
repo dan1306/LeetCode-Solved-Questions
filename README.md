@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0907-koko-eating-bananas) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1582-design-browser-history](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2058-concatenation-of-array) |

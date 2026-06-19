@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1582-design-browser-history](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |

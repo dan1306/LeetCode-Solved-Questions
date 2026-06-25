@@ -15,7 +15,9 @@ class Solution(object):
             hoursInFeed = 0
             for i in piles:
                 # print(mid, math.ceil(i / mid))
+                # hoursInFeed = i // mid
                 hoursInFeed += (i + mid - 1) // mid
+    
             
             if hoursInFeed <= h and mid < returnMe:
                 returnMe = mid

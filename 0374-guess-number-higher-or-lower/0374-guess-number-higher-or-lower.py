@@ -11,22 +11,20 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
+
         first = 1
-        second = n
+        last = n
+        mid = (first + last) // 2
 
+        while first <= n:
 
-
-        while True:
-            mid = (first + second) / 2
-            ans = guess(mid)
-
-            
-            if first == second:
-                return first
-            elif ans == 0:
-                return mid
-            elif ans == -1:
-                second = mid - 1
-            else:
+            if guess(mid) == -1:
+                last = mid - 1
+            elif guess(mid) == 1:
                 first = mid + 1
+            else:
+                return mid
+
+            mid = (first + last) // 2
+
         

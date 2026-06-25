@@ -1,44 +1,29 @@
+class Solution(object):
+    def minEatingSpeed(self, piles, h):
+        """
+        :type piles: List[int]
+        :type h: int
+        :rtype: int
+        """
+        l, r = 1, max(piles)
+        returnMe = r
 
-import math
 
-
-
-
-
-class Solution:
-    def minEatingSpeed(self, piles: List[int], h: int) -> int:
-
-        first = 1
-        second = 1000000000
-
-        while True:
-            if first == second:
-                return first
-            mid = (first + second) // 2
-
-            if self.loopAndFindPout(piles, mid, h) == True and (mid - 1 < 1 or self.loopAndFindPout(piles, mid - 1, h) == False):
-                return mid
-            elif self.loopAndFindPout(piles, mid, h) == True and (self.loopAndFindPout(piles, mid - 1, h) == True):
-                second = mid - 1
-            elif self.loopAndFindPout(piles, mid, h) == False and ( mid + 1 < 1000000001 and self.loopAndFindPout(piles, mid + 1, h) == False):
-                first = mid + 1
-            elif  self.loopAndFindPout(piles, mid, h) == False and (mid + 1 < 1000000001 and self.loopAndFindPout(piles, mid + 1, h) == True):
-                return mid + 1
-
-    def loopAndFindPout(self, piles, n, h):
-
-        totalTime = 0
-
-        for i in piles:
+        while l <= r:
+            mid = (l + r) // 2
+            # print(mid)
+            hoursInFeed = 0
+            for i in piles:
+                # print(mid, math.ceil(i / mid))
+                hoursInFeed += (i + mid - 1) // mid
             
-            ans = math.ceil(i / n)
-            if ans <= 0:
-                totalTime+= 1
+            if hoursInFeed <= h and mid < returnMe:
+                returnMe = mid
+            
+            if hoursInFeed > h:
+                l = mid + 1
             else:
-                totalTime += ans
-            if totalTime > h:
-                return False
-        # if totalTime <= h:
-        #     print(n)
-        #     print(totalTime)        
-        return True
+                r = mid - 1
+        
+        return returnMe
+            

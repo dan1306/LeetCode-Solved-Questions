@@ -31,7 +31,7 @@ class Solution(object):
             elif nums[middle] < target:
                 first = middle + 1
             middle = (first + last) // 2
-            print(middle)
+            # print(middle)
 
 
         return -1

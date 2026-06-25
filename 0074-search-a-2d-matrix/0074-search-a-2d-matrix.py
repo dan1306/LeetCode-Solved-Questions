@@ -5,45 +5,60 @@ class Solution(object):
         :type target: int
         :rtype: bool
         """
+    
+        if len(matrix) == 0:
+            return -1
+   
+        first = 0
+        last = len(matrix) - 1
+        middle = (first + last) // 2
 
-        for  i in matrix:
+        while first <= last:
 
-            if i[0] <= target and i[len(i) - 1] >= target:
-                momentoftruth= self.search(i, target) 
-                if momentoftruth is not -1:
+            if matrix[middle][0] > target :
+                last = middle -1
+            elif matrix[middle][len(matrix[middle]) - 1] < target:
+                first = middle + 1
+            else:
+                if self.search(matrix[middle], target) != -1:
+                    print("t")
                     return True
+                else:
+                    print("f")
+                    return False
                 
-        return False
+            middle = (first + last) // 2
 
+
+
+        return False
+        
+
+        
+
+    
     def search(self, nums, target):
         """
         :type nums: List[int]
         :type target: int
         :rtype: int
         """
-
+   
         first = 0
-        second = len(nums) - 1
+        last = len(nums) - 1
+        middle = (first + last) // 2
+
+        while first <= last:
+
+            if nums[middle] == target:
+                return middle
+
+            elif nums[middle] > target:
+                last = middle -1
+            elif nums[middle] < target:
+                first = middle + 1
+            middle = (first + last) // 2
 
 
-        while first < second and first is not second:
-            mid = (first + second) / 2
 
-            if nums[mid] == target:
-                return mid
-            elif nums[mid] > target:
-                second = mid
-            else:
-                first = mid 
-
-            if first + 1 == second :
-                break
-
-        if nums[first] == target:
-            return first 
-        elif nums[second] == target:
-            return second 
         return -1
-
-    
-    

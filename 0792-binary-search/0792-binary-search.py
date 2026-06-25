@@ -5,17 +5,6 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        if len(nums) == 0:
-            return -1
-
-        if len(nums) == 1 and nums[0] == target:
-            return 0
-
-        if len(nums) == 2:
-            if nums[0] == target:
-                return 0
-            elif nums[1] == target:
-                return 1
 
         first = 0
         last = len(nums) - 1

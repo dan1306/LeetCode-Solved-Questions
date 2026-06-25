@@ -14,10 +14,10 @@ class Solution(object):
 
         first = 1
         last = n
-        mid = (first + last) // 2
+        # mid = (first + last) // 2
 
-        while first <= n:
-
+        while first <= last:
+            mid = (first + last) // 2
             if guess(mid) == -1:
                 last = mid - 1
             elif guess(mid) == 1:
@@ -25,6 +25,6 @@ class Solution(object):
             else:
                 return mid
 
-            mid = (first + last) // 2
+           
 
         

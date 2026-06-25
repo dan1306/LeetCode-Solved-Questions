@@ -5,28 +5,33 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
+        if len(nums) == 0:
+            return -1
+
+        if len(nums) == 1 and nums[0] == target:
+            return 0
+
+        if len(nums) == 2:
+            if nums[0] == target:
+                return 0
+            elif nums[1] == target:
+                return 1
 
         first = 0
-        second = len(nums) - 1
+        last = len(nums) - 1
+        middle = (first + last) // 2
+        print(middle)
+        while first <= last:
+
+            if nums[middle] == target:
+                return middle
+
+            elif nums[middle] > target:
+                last = middle -1
+            elif nums[middle] < target:
+                first = middle + 1
+            middle = (first + last) // 2
+            print(middle)
 
 
-        while first < second and first is not second:
-            mid = (first + second) / 2
-
-            if nums[mid] == target:
-                return mid
-            elif nums[mid] > target:
-                second = mid
-            else:
-                first = mid 
-
-            if first + 1 == second :
-                break
-
-        if nums[first] == target:
-            return first 
-        elif nums[second] == target:
-            return second 
         return -1
-
-        

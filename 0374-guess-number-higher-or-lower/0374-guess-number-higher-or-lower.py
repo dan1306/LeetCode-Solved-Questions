@@ -16,7 +16,7 @@ class Solution(object):
         last = n
         # mid = (first + last) // 2
 
-        while first <= last:
+        while 1:
             mid = (first + last) // 2
             if guess(mid) == -1:
                 last = mid - 1

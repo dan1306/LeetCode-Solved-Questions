@@ -18,13 +18,14 @@ class Solution(object):
 
         while 1:
             mid = (first + last) // 2
-            res = guess(mid) 
-            if res == -1:
-                last = mid - 1
-            elif res == 1:
-                first = mid + 1
-            else:
+            res = guess(mid)
+            if res == 0:
                 return mid
+            elif res == -1:
+                last = mid - 1
+            else:
+                first = mid + 1
+
 
            
 

@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |

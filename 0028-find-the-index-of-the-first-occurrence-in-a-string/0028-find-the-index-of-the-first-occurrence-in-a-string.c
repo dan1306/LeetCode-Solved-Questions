@@ -8,14 +8,14 @@ int strStr(char* haystack, char* needle) {
     if(n == 0) return 0;
     
 
-    for(int i = 0; i < h; i++){
+    for(int i = 0; i <= h -n; i++){
         int inNeedle = 0;
         for(int j = i; j < h; j++){
             if(haystack[j] == needle[inNeedle] ){
 
                 inNeedle+=1;
 
-                if (inNeedle >= n ){
+                if (inNeedle == n ){
                     return i;
                 }
             } else{

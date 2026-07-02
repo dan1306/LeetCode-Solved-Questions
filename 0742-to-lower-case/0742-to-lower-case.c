@@ -1,0 +1,25 @@
+typedef struct {
+    char upperCase;
+    char lowerCase;
+} letterPair;
+
+char* toLowerCase(char* s) {
+    letterPair alphabet[26] = {
+        {'A', 'a'}, {'B', 'b'}, {'C', 'c'}, {'D', 'd'}, {'E', 'e'},
+        {'F', 'f'}, {'G', 'g'}, {'H', 'h'}, {'I', 'i'}, {'J', 'j'},
+        {'K', 'k'}, {'L', 'l'}, {'M', 'm'}, {'N', 'n'}, {'O', 'o'},
+        {'P', 'p'}, {'Q', 'q'}, {'R', 'r'}, {'S', 's'}, {'T', 't'},
+        {'U', 'u'}, {'V', 'v'}, {'W', 'w'}, {'X', 'x'}, {'Y', 'y'},
+        {'Z', 'z'}        
+    };
+    int i = 0;
+    while(s[i] != '\0'){
+        for(int j = 0; j < 26; j++){
+            if(s[i] == alphabet[j].upperCase){
+                s[i] = alphabet[j].lowerCase;
+            }
+        }
+        i++;
+    }
+    return s;
+}

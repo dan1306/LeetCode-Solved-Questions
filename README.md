@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2058-concatenation-of-array) |
 | [3226-minimum-number-game](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3226-minimum-number-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0258-add-digits) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |

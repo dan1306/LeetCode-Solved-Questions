@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2058-concatenation-of-array) |
 | [3226-minimum-number-game](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3226-minimum-number-game) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0258-add-digits) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
 | ------- |

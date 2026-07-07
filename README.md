@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2058-concatenation-of-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3226-minimum-number-game](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3226-minimum-number-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0742-to-lower-case) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |

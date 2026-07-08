@@ -5,7 +5,7 @@ class Solution {
         int product = 1; 
         int sum = 0;
         for(int i = 0; i < s1.length; i++){
-            int j = Character.getNumericValue(s1[i]);
+            int j = s1[i]-'0';
             product *= j;
             sum += j;
         }

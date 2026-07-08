@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0742-to-lower-case) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |

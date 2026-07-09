@@ -5,23 +5,15 @@ class Solution {
         int digitSum = 0;
 
         for(int i = 0; i < nums.length; i++){
-            sums+= nums[i];
-            if( nums[i] < 10){
-                digitSum+= nums[i];
-            }else{
-                // digitSum+=nums
-                // String str = nums[i] + "";
-                int temp = nums[i];
-                while (temp > 0) {
-                    digitSum += temp % 10; // Grabs the last digit
-                    temp /= 10;            // Chops off the last digit
-                }
+            int val = nums[i];
+            sums+= val;
+            while (val > 0) {
+                digitSum += (val % 10);
+                val /= 10;
             }
         }
-        int ans = sums - digitSum;
-        if(ans < 0) return(ans * -1);
-        return ans;
-        // return Math.abs(sums - digitSum);
+
+        return Math.abs(sums - digitSum);
         
     }
 }

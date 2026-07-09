@@ -18,14 +18,10 @@ class Solution {
                 }
             }
         }
-System.out.println("sums: " + sums);
-            
-            // 2. Print the total digit sum calculated for it
-            System.out.println("Digit Sum:       " + digitSum);
-            
-            // A nice separator line between array indices
-            System.out.println("-------------------------");
-        return Math.abs(sums - digitSum);
+        int ans = sums - digitSum;
+        if(ans < 0) return(ans * -1);
+        return ans;
+        // return Math.abs(sums - digitSum);
         
     }
 }

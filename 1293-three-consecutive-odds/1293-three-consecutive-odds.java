@@ -10,7 +10,7 @@ class Solution {
             else{
                 i += 1;
             }
-            System.out.println(arr[j] + " " + i); 
+            // System.out.println(arr[j] + " " + i); 
             if(i == 3) return true;
         }
         return false;

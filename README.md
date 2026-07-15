@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2876-number-of-employees-who-met-the-target](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [3226-minimum-number-game](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2752-sum-multiples](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3321-type-of-triangle](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |

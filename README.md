@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1293-three-consecutive-odds) |
 | [1582-design-browser-history](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1582-design-browser-history) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
+| [1014-k-closest-points-to-origin](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [3226-minimum-number-game](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3321-type-of-triangle) |
 ## String
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0258-add-digits) |
+| [1014-k-closest-points-to-origin](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -221,5 +224,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [3226-minimum-number-game](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3226-minimum-number-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

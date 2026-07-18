@@ -30,17 +30,4 @@ class Solution {
        }
 
     }
-
-    public int traverse(TreeNode root, int i){
-        i+=1;
-        if(root.left != null){
-            int r = traverse(root.left, i);
-        }
-
-        // if(root.rigtht != null){
-        //     int r = traverse(root.rigtht, i);
-        // }
-
-        return i;
-    }
 }

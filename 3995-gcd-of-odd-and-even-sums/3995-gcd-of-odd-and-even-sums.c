@@ -13,7 +13,7 @@ int gcdOfOddEvenSums(int n) {
             odd+=2;
             even+=2;
             i+=1;
-            printf("oddSum = %d, evenSum = %d\n", sumOfEeven, sumOfOdd);
+            // printf("oddSum = %d, evenSum = %d\n", sumOfEeven, sumOfOdd);
 
         }
         return gcd(sumOfEeven, sumOfOdd);

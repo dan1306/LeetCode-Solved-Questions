@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3226-minimum-number-game](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |

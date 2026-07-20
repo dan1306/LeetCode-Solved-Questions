@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0258-add-digits) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

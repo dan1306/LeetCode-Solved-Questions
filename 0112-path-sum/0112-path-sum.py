@@ -5,29 +5,33 @@
 #         self.left = left
 #         self.right = right
 class Solution(object):
+    
     def hasPathSum(self, root, targetSum):
-        self.res = 0  # Initialize instance variable here
+        self.res = 0
+        
         return self.sumItUp(root, targetSum)
 
-    def sumItUp(self, root, targetSum):  # Added 'self' and 'targetSum'
-        if root is None: 
+    def sumItUp(self, root, targetSum):
+        if root == None: 
             return False
-
         self.res += root.val
         
-        # Leaf node check
-        if root.right is None and root.left is None:
+        if root.right == None and root.left == None:
             if self.res == targetSum:
                 return True
             
-        # Recurse left
         if self.sumItUp(root.left, targetSum):
             return True
-
-        # Recurse right
         if self.sumItUp(root.right, targetSum):
             return True
         
-        # Backtrack
         self.res -= root.val
         return False
+        
+       
+        """
+        :type root: TreeNode
+        :type targetSum: int
+        :rtype: bool
+        """
+        

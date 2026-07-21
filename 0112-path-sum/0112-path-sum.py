@@ -6,30 +6,28 @@
 #         self.right = right
 class Solution(object):
     def hasPathSum(self, root, targetSum):
-        
-        res = 0
-        
-        def sumItUp(root, res):
-            if root == None: 
-                return False
-            res += root.val
-            
-            if root.right == None and root.left == None:
-                if res == targetSum:
-                    return True
-                
-            if sumItUp(root.left, res):
-                return True
-            if sumItUp(root.right, res):
-                return True
-            
-            res -= root.val
+        self.res = 0  # Initialize instance variable here
+        return self.sumItUp(root, targetSum)
+
+    def sumItUp(self, root, targetSum):  # Added 'self' and 'targetSum'
+        if root is None: 
             return False
+
+        self.res += root.val
         
-        return sumItUp(root, res)
-        """
-        :type root: TreeNode
-        :type targetSum: int
-        :rtype: bool
-        """
+        # Leaf node check
+        if root.right is None and root.left is None:
+            if self.res == targetSum:
+                return True
+            
+        # Recurse left
+        if self.sumItUp(root.left, targetSum):
+            return True
+
+        # Recurse right
+        if self.sumItUp(root.right, targetSum):
+            return True
         
+        # Backtrack
+        self.res -= root.val
+        return False

@@ -4,12 +4,18 @@
  */
 var argumentsLength = function(...args) {
 
-    let i = 0;  
-    while(true){
-        if(args[i] === undefined) break;
-        i++;
+    // let i = 0;  
+    // while(true){
+    //     if(args[i] === undefined) break;
+    //     i++;
+    // }
+    // return i;
+
+    let sol = 0; 
+    for(arg in args){
+        sol++; 
     }
-    return i;
+    return sol; 
 
 }
 

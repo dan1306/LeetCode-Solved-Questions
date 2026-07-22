@@ -3,19 +3,13 @@
  * @return {number}
  */
 var argumentsLength = function(...args) {
-        // return args.length;
-        // if(args === []) return 0;
-        let i = 1;
-        while(1){
-            if(args[i - 1] === undefined){
-                // i--;
-                console.log(args[i-1])
-                break;
-            }
-            i++;
-        }
-        return i-1;
-        // console.log(args)
+
+    let i = 0;  
+    while(true){
+        if(args[i] === undefined) break;
+        i++;
+    }
+    return i;
 
 }
 

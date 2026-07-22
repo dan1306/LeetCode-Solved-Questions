@@ -3,8 +3,8 @@
  * @return {number}
  */
 var argumentsLength = function(...args) {
-
-        if(args === []) return 0;
+        // return args.length;
+        // if(args === []) return 0;
         let i = 1;
         while(1){
             if(args[i - 1] === undefined){

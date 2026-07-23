@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 ## Number Theory
 |  |
 | ------- |
@@ -266,4 +268,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1014-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

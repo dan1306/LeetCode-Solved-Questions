@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4299-concatenate-array-with-reverse](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/4299-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2058-concatenation-of-array) |
 | [3226-minimum-number-game](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3226-minimum-number-game) |
+| [4299-concatenate-array-with-reverse](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/4299-concatenate-array-with-reverse) |
 ## Stack
 |  |
 | ------- |

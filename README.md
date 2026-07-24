@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -271,5 +272,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

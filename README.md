@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0258-add-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1014-k-closest-points-to-origin) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0278-first-bad-version](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0278-first-bad-version) |

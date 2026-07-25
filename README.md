@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0191-number-of-1-bits) |
 ## Number Theory
 |  |
 | ------- |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0191-number-of-1-bits) |
 | [1014-k-closest-points-to-origin](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |

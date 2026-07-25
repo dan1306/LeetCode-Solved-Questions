@@ -5,7 +5,7 @@ class Solution {
         int z = 0;
 
         while( i <= j){
-            System.out.println(i + " " + j);
+            // System.out.println(i + " " + j);
             int mid = (i+j) / 2;
             long midSqred = (long) mid * mid; ;
 

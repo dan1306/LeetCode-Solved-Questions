@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0338-counting-bits) |
 ## Number Theory
 |  |
 | ------- |

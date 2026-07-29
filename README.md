@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4008-restore-finishing-order](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/4008-restore-finishing-order) |
 | [4299-concatenate-array-with-reverse](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/4299-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4008-restore-finishing-order](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/4008-restore-finishing-order) |
 ## Sorting
 |  |
 | ------- |

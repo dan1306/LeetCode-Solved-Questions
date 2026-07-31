@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3194-find-words-containing-character) |
+| [3312-number-of-changing-keys](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3312-number-of-changing-keys) |
 ## Two Pointers
 |  |
 | ------- |

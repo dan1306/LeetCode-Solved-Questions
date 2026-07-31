@@ -10,7 +10,7 @@ int countKeyChanges(char* s) {
         char b = toupper((unsigned char) s[i + 1]);
         
         if(a != b && a != '\0' && b!= '\0'){
-            printf("%c %c\n", a, b);
+            // printf("%c %c\n", a, b);
             j++;
             i++;
         } else {

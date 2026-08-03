@@ -5,11 +5,11 @@ int countKeyChanges(char* s) {
     // s = toupper((unsigned char) s);
     int i = 0;
     int j = 0;
-    while(s[i] != '\0'){
+    while(s[i] != '\0' && s[i + 1] != '\0'){
         char a = toupper((unsigned char) s[i]);
         char b = toupper((unsigned char) s[i + 1]);
         
-        if(a != b && a != '\0' && b!= '\0'){
+        if(a != b){
             // printf("%c %c\n", a, b);
             j++;
             i++;

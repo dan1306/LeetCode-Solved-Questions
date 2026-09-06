@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1293-three-consecutive-odds) |
 | [1582-design-browser-history](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1582-design-browser-history) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1127-last-stone-weight) |
 | [3226-minimum-number-game](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3226-minimum-number-game) |
 ## Divide and Conquer
 |  |

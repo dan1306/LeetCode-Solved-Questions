@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1582-design-browser-history) |
 ## Linked List
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0907-koko-eating-bananas) |
 ## Binary Tree
@@ -208,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Matrix
 |  |
 | ------- |
@@ -234,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1582-design-browser-history) |
 ## Union-Find
 |  |
@@ -268,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1014-k-closest-points-to-origin) |
 | [3226-minimum-number-game](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/3226-minimum-number-game) |
 ## Divide and Conquer

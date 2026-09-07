@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0838-design-linked-list) |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/dan1306/LeetCode-Solved-Questions/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
